@@ -32,3 +32,4 @@ resource "aws_subnet" "subnet_public_az" {
 
   }
 }
+
